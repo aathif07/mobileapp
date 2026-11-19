@@ -1,0 +1,6 @@
+{
+  "name": "PulseLink",
+  "description": "Secure low-bandwidth mobile instant messaging PWA with Web Crypto E2EE, payload compression, offline store-and-forward queuing, and adaptive voice and tiny image transmission.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
